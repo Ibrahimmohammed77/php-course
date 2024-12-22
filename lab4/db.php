@@ -21,3 +21,11 @@ try {
     // Handle connection errors
     echo "Database connection failed: " . $e->getMessage();
 }
+
+
+
+// CREATE TABLE اسم_الجدول (  
+//     id INT AUTO_INCREMENT PRIMARY KEY,  
+//     column1 VARCHAR(255) CHARACTER SET utf8mb4,  
+//     column2 TEXT CHARACTER SET utf8mb4  
+// ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
